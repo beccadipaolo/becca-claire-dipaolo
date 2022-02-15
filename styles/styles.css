@@ -1,0 +1,11 @@
+/*Typography*/
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+p, a {
+    font-family: 'Inter', sans-serif;
+}
+
+/*Layout*/
