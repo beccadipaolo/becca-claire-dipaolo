@@ -2,16 +2,19 @@
 
 h1 {
     font-family: 'Playfair Display', serif;
+
 }
 
 p, a {
     font-family: 'Inter', sans-serif;
+
 }
 
 p {
     margin-bottom: 30px;
     font-size: 14px;
     color: #3E3C3B;
+    
 }
 
 /*Layout*/
